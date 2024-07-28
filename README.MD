@@ -8,6 +8,10 @@
 - **Consultar tu cita**: Solo necesitas tu token para obtener la información de tu cita.
 - **Ver la ubicación**: Te damos un link directo a Google Maps para que encuentres la ubicación fácilmente.
 - **Contactar a Xareny**: Te damos el enlace a su página de Facebook para que puedas contactarla.
+![Pantalla del bot](images/xary1.png)
+![Pantalla de inicio, con ubicacion y contacto](images/xary2.png)
+![Pantalla de seleccion de cita y manejo de dia y horario](images/xary3.png)
+![Pantalla de confirmacion de cita con su token y consultar cita con token](images/xar4.png)
 
 ## ¿Como funciona?
 

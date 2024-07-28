@@ -163,7 +163,7 @@ async def usuarios(update: Update, context: CallbackContext) -> None:
 
 def main() -> None:
     
-    token_bot = '6952541255:AAHXuxoKZONnt5fkkZI6gZGvj3fvsyovCSo'
+    token_bot = 'aqui va el token generado por tu bot'
     application = ApplicationBuilder().token(token_bot).build()
 
     
