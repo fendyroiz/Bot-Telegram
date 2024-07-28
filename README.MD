@@ -1,6 +1,6 @@
 # Bot de Telegram para Agendar Citas con Xareny Farias
 
-¡Bienvenido al repositorio de nuestro bot de Telegram! Este bot te ayudara a agendar citas de una manera super facil y rápida con Xareny Farias, nuestra ginecóloga virtual. 
+¡Bienvenido al repositorio de nuestro bot de Telegram! Este bot te ayudara a agendar citas de una manera super facil y rápida con Xareny Farias, nuestra ginecóloga virtual.
 
 ## ¿Qué hace este bot?
 
@@ -8,16 +8,18 @@
 - **Consultar tu cita**: Solo necesitas tu token para obtener la información de tu cita.
 - **Ver la ubicación**: Te damos un link directo a Google Maps para que encuentres la ubicación fácilmente.
 - **Contactar a Xareny**: Te damos el enlace a su página de Facebook para que puedas contactarla.
-![Pantalla del bot](images/xary1.png)
-![Pantalla de inicio, con ubicacion y contacto](images/xary2.png)
-![Pantalla de seleccion de cita y manejo de dia y horario](images/xary3.png)
-![Pantalla de confirmacion de cita con su token y consultar cita con token](images/xar4.png)
+
+![Pantalla del bot](xary1.png)
+![Pantalla de inicio, con ubicacion y contacto](xary2.png)
+![Pantalla de seleccion de cita y manejo de dia y horario](xary3.png)
+![Pantalla de confirmacion de cita con su token y consultar cita con token](xar4.png)
 
 ## ¿Como funciona?
 
 ### 1. Iniciar el bot
 
 Cuando inicias el bot con `/start`, Xareny te saluda y te da opciones para:
+
 - Agendar Consulta
 - Ubicación
 - Contacto
@@ -42,15 +44,17 @@ Seleccionas "Contacto" y te enviamos el enlace a su página de Facebook.
 ## Como correr el bot
 
 **Clonar este repositorio**:
-   ```sh
-   git clone https://github.com/fendyroiz/Bot-Telegram.git
 
-    Actualiza con el token de tu bot, y accede a la carpeta.
+```sh
+git clone https://github.com/fendyroiz/Bot-Telegram.git
 
-    Instala las dependencias**
+ Actualiza con el token de tu bot, y accede a la carpeta.
 
-    Para este proyecto sera necesario tener instalado las siguientes dependencias
+ Instala las dependencias**
 
-    pip install python-telegram-bot
+ Para este proyecto sera necesario tener instalado las siguientes dependencias
 
-    por ultimo sera necesario correrlo con python3 main.py
+ pip install python-telegram-bot
+
+ por ultimo sera necesario correrlo con python3 main.py
+```
