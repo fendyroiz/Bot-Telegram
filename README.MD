@@ -9,10 +9,10 @@
 - **Ver la ubicación**: Te damos un link directo a Google Maps para que encuentres la ubicación fácilmente.
 - **Contactar a Xareny**: Te damos el enlace a su página de Facebook para que puedas contactarla.
 
-![Pantalla del bot](xary1.png)
-![Pantalla de inicio, con ubicacion y contacto](xary2.png)
-![Pantalla de seleccion de cita y manejo de dia y horario](xary3.png)
-![Pantalla de confirmacion de cita con su token y consultar cita con token](xar4.png)
+![Pantalla del bot](xary1.jpeg)
+![Pantalla de inicio, con ubicacion y contacto](xary2.jpeg)
+![Pantalla de seleccion de cita y manejo de dia y horario](xary3.jpeg)
+![Pantalla de confirmacion de cita con su token y consultar cita con token](xary4.jpeg)
 
 ## ¿Como funciona?
 
